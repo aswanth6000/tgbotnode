@@ -1,0 +1,16 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "tg bot using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "aswanth6000",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
